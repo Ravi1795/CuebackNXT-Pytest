@@ -1,0 +1,67 @@
+06/28/2023 05:35:50 PM - LoginPage - INFO: Element found with: div[class='pages__NavbarItems-sc-owc2ql-11 dyfyqU'] a[class='styled__StyledLink-sc-1edb4g-1 hVjdJQ']and locatorType: css
+06/28/2023 05:35:50 PM - LoginPage - INFO: Click on element with: div[class='pages__NavbarItems-sc-owc2ql-11 dyfyqU'] a[class='styled__StyledLink-sc-1edb4g-1 hVjdJQ']and locatorType: css
+06/28/2023 05:35:54 PM - LoginPage - INFO: Element found with: //input[@placeholder='Enter your email...']and locatorType: xpath
+06/28/2023 05:35:54 PM - LoginPage - INFO: Sent data on element with: //input[@placeholder='Enter your email...']and locatorType: xpath
+06/28/2023 05:35:54 PM - LoginPage - INFO: Element found with: passwordand locatorType: name
+06/28/2023 05:35:54 PM - LoginPage - INFO: Sent data on element with: passwordand locatorType: name
+06/28/2023 05:35:54 PM - LoginPage - INFO: Element found with: //button[@type='submit']and locatorType: xpath
+06/28/2023 05:35:55 PM - LoginPage - INFO: Click on element with: //button[@type='submit']and locatorType: xpath
+06/28/2023 05:36:00 PM - PromptPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/28/2023 05:36:00 PM - PromptPage - INFO: Element appeared on the web page
+06/28/2023 05:36:00 PM - PromptPage - INFO: Element found with: //span[normalize-space()='Prompts']and locatorType: xpath
+06/28/2023 05:36:00 PM - PromptPage - INFO: Element Found
+06/28/2023 05:36:00 PM - PromptPage - INFO: Element found with: //span[normalize-space()='Prompts']and locatorType: xpath
+06/28/2023 05:36:00 PM - PromptPage - INFO: Click on element with: //span[normalize-space()='Prompts']and locatorType: xpath
+06/28/2023 05:36:05 PM - PromptPage - INFO: Element found with: PromptCard__PromptCardWrapper-sc-ugk9r0-1 iDMtukand locatorType: class
+06/28/2023 05:36:05 PM - PromptPage - INFO: None
+06/28/2023 05:36:05 PM - PromptPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/28/2023 05:36:05 PM - PromptPage - INFO: Element appeared on the web page
+06/28/2023 05:36:05 PM - PromptPage - INFO: Element found with: body > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > a:nth-child(2) > div:nth-child(2) > span:nth-child(1)and locatorType: css
+06/28/2023 05:36:05 PM - PromptPage - INFO: Element Found
+06/28/2023 05:36:05 PM - PromptPage - INFO: Element found with: body > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > a:nth-child(2) > div:nth-child(2) > span:nth-child(1)and locatorType: css
+06/28/2023 05:36:06 PM - PromptPage - INFO: Click on element with: body > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > a:nth-child(2) > div:nth-child(2) > span:nth-child(1)and locatorType: css
+06/28/2023 05:36:06 PM - PromptPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/28/2023 05:36:06 PM - PromptPage - INFO: Element appeared on the web page
+06/28/2023 05:36:06 PM - PromptPage - INFO: Element found with: #memory-titleand locatorType: css
+06/28/2023 05:36:07 PM - PromptPage - INFO: Sent data on element with: #memory-titleand locatorType: css
+06/28/2023 05:36:07 PM - PromptPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/28/2023 05:36:07 PM - PromptPage - INFO: Element appeared on the web page
+06/28/2023 05:36:07 PM - PromptPage - INFO: Element found with: input[placeholder='mm/dd/yyyy']and locatorType: css
+06/28/2023 05:36:07 PM - PromptPage - INFO: Sent data on element with: input[placeholder='mm/dd/yyyy']and locatorType: css
+06/28/2023 05:36:07 PM - PromptPage - INFO: Element found with: //div[@class='ProseMirror']and locatorType: xpath
+06/28/2023 05:36:07 PM - PromptPage - INFO: Sent data on element with: //div[@class='ProseMirror']and locatorType: xpath
+06/28/2023 05:36:07 PM - PromptPage - INFO: Element found with: .styled__StyledButton-sc-1edb4g-3.berOvv.styled__StyledButton-sc-16mjhso-6.fpIBarand locatorType: css
+06/28/2023 05:36:07 PM - PromptPage - INFO: Click on element with: .styled__StyledButton-sc-1edb4g-3.berOvv.styled__StyledButton-sc-16mjhso-6.fpIBarand locatorType: css
+06/28/2023 05:40:05 PM - LoginPage - INFO: Element found with: div[class='pages__NavbarItems-sc-owc2ql-11 dyfyqU'] a[class='styled__StyledLink-sc-1edb4g-1 hVjdJQ']and locatorType: css
+06/28/2023 05:40:05 PM - LoginPage - INFO: Click on element with: div[class='pages__NavbarItems-sc-owc2ql-11 dyfyqU'] a[class='styled__StyledLink-sc-1edb4g-1 hVjdJQ']and locatorType: css
+06/28/2023 05:40:08 PM - LoginPage - INFO: Element found with: //input[@placeholder='Enter your email...']and locatorType: xpath
+06/28/2023 05:40:09 PM - LoginPage - INFO: Sent data on element with: //input[@placeholder='Enter your email...']and locatorType: xpath
+06/28/2023 05:40:09 PM - LoginPage - INFO: Element found with: passwordand locatorType: name
+06/28/2023 05:40:09 PM - LoginPage - INFO: Sent data on element with: passwordand locatorType: name
+06/28/2023 05:40:09 PM - LoginPage - INFO: Element found with: //button[@type='submit']and locatorType: xpath
+06/28/2023 05:40:10 PM - LoginPage - INFO: Click on element with: //button[@type='submit']and locatorType: xpath
+06/28/2023 05:40:15 PM - PromptPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/28/2023 05:40:15 PM - PromptPage - INFO: Element appeared on the web page
+06/28/2023 05:40:15 PM - PromptPage - INFO: Element found with: //span[normalize-space()='Prompts']and locatorType: xpath
+06/28/2023 05:40:15 PM - PromptPage - INFO: Element Found
+06/28/2023 05:40:15 PM - PromptPage - INFO: Element found with: //span[normalize-space()='Prompts']and locatorType: xpath
+06/28/2023 05:40:15 PM - PromptPage - INFO: Click on element with: //span[normalize-space()='Prompts']and locatorType: xpath
+06/28/2023 05:40:20 PM - PromptPage - INFO: None
+06/28/2023 05:40:20 PM - PromptPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/28/2023 05:40:20 PM - PromptPage - INFO: Element appeared on the web page
+06/28/2023 05:40:20 PM - PromptPage - INFO: Element found with: body > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > a:nth-child(2) > div:nth-child(2) > span:nth-child(1)and locatorType: css
+06/28/2023 05:40:20 PM - PromptPage - INFO: Element Found
+06/28/2023 05:40:20 PM - PromptPage - INFO: Element found with: body > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > a:nth-child(2) > div:nth-child(2) > span:nth-child(1)and locatorType: css
+06/28/2023 05:40:20 PM - PromptPage - INFO: Click on element with: body > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > a:nth-child(2) > div:nth-child(2) > span:nth-child(1)and locatorType: css
+06/28/2023 05:40:20 PM - PromptPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/28/2023 05:40:21 PM - PromptPage - INFO: Element appeared on the web page
+06/28/2023 05:40:21 PM - PromptPage - INFO: Element found with: #memory-titleand locatorType: css
+06/28/2023 05:40:21 PM - PromptPage - INFO: Sent data on element with: #memory-titleand locatorType: css
+06/28/2023 05:40:21 PM - PromptPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/28/2023 05:40:21 PM - PromptPage - INFO: Element appeared on the web page
+06/28/2023 05:40:21 PM - PromptPage - INFO: Element found with: input[placeholder='mm/dd/yyyy']and locatorType: css
+06/28/2023 05:40:22 PM - PromptPage - INFO: Sent data on element with: input[placeholder='mm/dd/yyyy']and locatorType: css
+06/28/2023 05:40:22 PM - PromptPage - INFO: Element found with: //div[@class='ProseMirror']and locatorType: xpath
+06/28/2023 05:40:22 PM - PromptPage - INFO: Sent data on element with: //div[@class='ProseMirror']and locatorType: xpath
+06/28/2023 05:40:22 PM - PromptPage - INFO: Element found with: .styled__StyledButton-sc-1edb4g-3.berOvv.styled__StyledButton-sc-16mjhso-6.fpIBarand locatorType: css
+06/28/2023 05:40:22 PM - PromptPage - INFO: Click on element with: .styled__StyledButton-sc-1edb4g-3.berOvv.styled__StyledButton-sc-16mjhso-6.fpIBarand locatorType: css
